@@ -1,6 +1,4 @@
-config/config.php
 cache/*/*.php
-/nbproject/private/
-.buildpath
-.project
-.settings/
+config/config.php
+nbproject/
+
